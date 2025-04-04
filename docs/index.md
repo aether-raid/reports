@@ -1,13 +1,3 @@
-# Welcome to the AETHER by RAiD Website
+# AETHER by RAiD
 
-
-<div class="grid cards" style="text-align: center;" markdown>
-
--   ![Image title](img/authors/glenn.jpeg){ align=center }
-    __Glenn Wu__
--   ![Image title](img/authors/prannay.jpeg){ align=center }
-    __Glenn Wu__
--   ![Image title](img/authors/lynus.jpeg){ align=center }
-    __Glenn Wu__
-
-</div>
+Welcome to the AETHER website. We are a research lab in the Air Force.
