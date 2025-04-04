@@ -1,0 +1,37 @@
+authors:
+  prannay:
+    name: Prannaya Gupta
+    description: AI Researcher
+    avatar: img/authors/prannay.jpeg
+  lynus:
+    name: Lynus Lim
+    description: AI Researcher
+    avatar: img/authors/lynus.jpeg
+  nicholas:
+    name: Nicholas Lee
+    description: Software Developer
+    avatar: img/authors/nicholas.jpeg
+  nistelrooy:
+    name: Nistelrooy Lim
+    description: Software Developer
+    avatar: img/authors/nistelrooy.jpeg
+  rian:
+    name: Rian Chan
+    description: Software Developer
+    avatar: img/authors/rian.jpeg
+  kaleb:
+    name: Kaleb Nim
+    description: AI Engineer
+    avatar: img/authors/kaleb.jpeg
+  jiajun:
+    name: Jia Jun Chua
+    description: Software Developer
+    avatar: img/authors/kaleb.jpeg
+  royston:
+    name: Royston Loo
+    description: Software Developer
+    avatar: img/authors/royston.jpeg
+  glenn:
+    name: Glenn Wu
+    description: AI Solutions Intern
+    avatar: img/authors/glenn.jpeg
