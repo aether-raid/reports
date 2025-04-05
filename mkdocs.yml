@@ -26,6 +26,8 @@
 # Project information
 site_name: AETHER Reports
 
+repo_name: aether-raid/reports
+
 # Theme
 theme:
   name: material
@@ -50,6 +52,11 @@ plugins:
       pagination_per_page: 5
       blog_dir: .
       post_excerpt_max_authors: 5
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-committers:
+      repository: aether-raid/reports
+      branch: main
 
 nav:
   - Home: index.md
@@ -68,8 +75,6 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-
-
 extra:
   social:
     - icon: fontawesome/brands/github
