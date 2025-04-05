@@ -36,7 +36,7 @@ theme:
     - content.action.edit
     - content.action.view
     - content.tooltips
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.footer
   icon:
     annotation: material/arrow-right-circle
@@ -48,11 +48,11 @@ plugins:
       blog_toc: true
       post_url_format: "{slug}"
       pagination_per_page: 5
+      blog_dir: .
+      post_excerpt_max_authors: 5
 
 nav:
   - Home: index.md
-  - Reports:
-    - blog/index.md
 
 
 markdown_extensions:
