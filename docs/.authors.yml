@@ -3,26 +3,32 @@ authors:
     name: Prannaya Gupta
     description: AI Researcher
     avatar: img/authors/prannay.jpeg
+    url: https://prannay.dev
   lynus:
     name: Lynus Lim
     description: AI Researcher
     avatar: img/authors/lynus.jpeg
+    url: https://www.linkedin.com/in/lynus-lim-286811219/
   nicholas:
     name: Nicholas Lee
     description: Software Developer
     avatar: img/authors/nicholas.jpeg
+    url: https://www.linkedin.com/in/lwj-nicholas/
   nistelrooy:
     name: Nistelrooy Lim
     description: Software Developer
     avatar: img/authors/nistelrooy.jpeg
+    url: https://www.linkedin.com/in/nistelrooy-lim/
   rian:
     name: Rian Chan
     description: Software Developer
     avatar: img/authors/rian.jpeg
+    url: https://www.linkedin.com/in/ryan-hui-816095259/
   kaleb:
     name: Kaleb Nim
     description: AI Engineer
     avatar: img/authors/kaleb.jpeg
+    url: https://www.linkedin.com/in/kaleb-nim/
   jiajun:
     name: Jia Jun Chua
     description: Software Developer
@@ -31,7 +37,9 @@ authors:
     name: Royston Loo
     description: Software Developer
     avatar: img/authors/royston.jpeg
+    url: https://www.linkedin.com/in/royston-loo-58b1211a4/
   glenn:
     name: Glenn Wu
     description: AI Solutions Intern
     avatar: img/authors/glenn.jpeg
+    url: https://www.linkedin.com/in/wuglenn/
