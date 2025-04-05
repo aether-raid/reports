@@ -1,4 +1,9 @@
 authors:
+  aekas:
+    name: Aekas Singh Gulati
+    description: Software Developer
+    avatar: img/authors/aekas.jpeg
+    url: https://www.linkedin.com/in/aekas-singh-gulati-6b9360278/
   prannay:
     name: Prannaya Gupta
     description: AI Researcher
@@ -43,3 +48,28 @@ authors:
     description: AI Solutions Intern
     avatar: img/authors/glenn.jpeg
     url: https://www.linkedin.com/in/wuglenn/
+  ethan:
+    name: Ethan Chew
+    description: Software Development Intern
+    avatar: img/authors/ethanchew.jpeg
+    url: https://www.ethanchew.com/
+  galen:
+    name: Galen Tay
+    description: Software Development Intern
+    avatar: img/authors/galen.jpeg
+    url: https://www.linkedin.com/in/galen-tay-331029263/
+  ian:
+    name: Ian Lim
+    description: Software Development Intern
+    avatar: img/authors/ian.jpeg
+    url: https://www.linkedin.com/in/lim-wq-ian/
+  brandon:
+    name: Brandon Koh
+    description: Software Development Intern
+    avatar: img/authors/brandon.jpeg
+    url: https://www.linkedin.com/in/brandonkohzh/
+  darius:
+    name: Darius Koh
+    description: Software Development Intern
+    avatar: img/authors/darius.jpeg
+    url: https://www.linkedin.com/in/darius-koh/
